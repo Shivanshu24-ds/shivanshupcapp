@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KapilsRepo/Capstone-proj5/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KapilsRepo/Capstone-proj5/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Shivanshu24-ds/shivanshupcapp/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Shivanshu24-ds/shivanshupcapp/tree/master)
       
 
 ## Project Overview
